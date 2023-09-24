@@ -13,7 +13,7 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
   "PREFIX": ".",
   "AUTO_REACTION": false,
   "READ_MESSAGE" : true,
-   "THEME" : 'Munib',
+   "THEME" : 'Dark-Nero',
   "ALWAYS_ONLINE": 'true'
 
    
